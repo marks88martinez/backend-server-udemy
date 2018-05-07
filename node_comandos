@@ -1,0 +1,12 @@
+//Node
+npm install -g nodemon --save
+npm install body-parser
+npm install mongoose
+npm install mongoose-unique-validator --save
+npm install bcrypt --save
+
+Angular
+npm install chart.js --save
+npm install ng2-charts --save
+npm install jshint 
+npm install -g @angular/cli@latest
